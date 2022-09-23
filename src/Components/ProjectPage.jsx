@@ -11,7 +11,7 @@ export default function ProjectPage() {
     paddingBottom: "5%",
   };
   return (
-    <div>
+    <div id="Projects">
       <ProjectsStyling>
         <h2>My Projects</h2>
         <div style={pageStyle}>

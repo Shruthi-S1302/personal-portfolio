@@ -5,7 +5,7 @@ export const ResumeButtonStyle = styled.div`
   background-color: "#816797";
   padding: "10px 25px";
   border-radius: "18px";
-  margin-left: "5%";
+  margin-left: "4%";
   color: "#FFF";
   font-size: "1.25rem";
   position: "absolute";

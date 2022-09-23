@@ -6,7 +6,7 @@ export default function Skills() {
   return (
     <div>
       <SkillsStyling>
-        <section className="p-5 skill">
+        <section className="p-5 skill" id="skills">
           <div className="container-fluid">
             <div className="row text-white text-center">
               <div className="col m-4">

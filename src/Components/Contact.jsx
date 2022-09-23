@@ -2,6 +2,7 @@ import React from "react";
 import { ContactStyle } from "./ContactStyle";
 import { BsLinkedin, BsGithub } from "react-icons/bs";
 import Copyright from "./Copyright";
+import coffee from "../Images/coffee.png";
 
 export default function Contact() {
   const coffeecup = {
@@ -11,17 +12,13 @@ export default function Contact() {
     margin: "0 8px 0 8px",
   };
   return (
-    <div>
+    <div id="Contact">
       <ContactStyle>
         <p className="p-contact">Feel free to reach me out.</p>
         <p>
           We can jam over a cup of
-          <img
-            src="https://cdn-icons.flaticon.com/png/512/2954/premium/2954820.png?token=exp=1660847348~hmac=c14b28c12142e759e5a4b60b505fa19b"
-            style={coffeecup}
-            alt=""
-          ></img>
-          , discuss life, technology, books and music!
+          <img src={coffee} style={coffeecup} alt=""></img>, discuss life,
+          technology, books and music!
         </p>
         <div className="icons">
           <a

@@ -8,11 +8,13 @@ const DescriptionStyles = styled.div`
     transform-origin: 70% 70%;
     display: inline-block;
   }
-
+  .jumbotron {
+    margin-left: 4%;
+  }
   .display-4 {
     color: #fff;
     margin-bottom: 10%;
-    font-size: 5rem;
+    font-size: 6.25vw;
   }
 
   @keyframes wave-animation {

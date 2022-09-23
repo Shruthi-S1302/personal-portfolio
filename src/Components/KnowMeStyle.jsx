@@ -20,7 +20,6 @@ export const KnowMeStyle = styled.div`
     line-height: 2.5; */
     margin: 5%;
     line-height: 2;
-    color: ;
     font-family: "Lexend Deca", sans-serif;
     font-size: 1.25rem;
   }

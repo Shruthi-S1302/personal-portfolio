@@ -1,20 +1,20 @@
 const navbarItems = [
   {
     label: "Know Me",
-    id: "KnowMe",
+    id: "#KnowMe",
   },
   {
     label: "Skills",
-    id: "skills",
+    id: "#skills",
   },
   {
     label: "My Projects",
-    id: "Projects",
+    id: "#Projects",
   },
 
   {
     label: "Contact",
-    id: "Contact",
+    id: "#Contact",
   },
 
   // {
