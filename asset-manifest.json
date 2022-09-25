@@ -1,20 +1,20 @@
 {
-  "files": {
-    "main.css": "/personal-portfolio/static/css/main.73361ee2.css",
-    "main.js": "/personal-portfolio/static/js/main.e2a08683.js",
-    "static/media/bg.jpg": "/personal-portfolio/static/media/bg.2eb848a8cede289391c3.jpg",
-    "static/media/Profile.jpg": "/personal-portfolio/static/media/Profile.6fe3ea84f2a67d1ce2e8.jpg",
-    "static/media/Resume.pdf": "/personal-portfolio/static/media/Resume.186b79326097da9d3cb5.pdf",
-    "static/media/coffee.png": "/personal-portfolio/static/media/coffee.aa5f5c92e2e3c61d3b6c.png",
-    "static/media/programming.png": "/personal-portfolio/static/media/programming.d7a26c08d8bb4d2b5b7d.png",
-    "static/media/website.png": "/personal-portfolio/static/media/website.4d2a2a87a6e0b621df56.png",
-    "static/media/frontend.png": "/personal-portfolio/static/media/frontend.0342b41d4de8a78d90e9.png",
-    "index.html": "/personal-portfolio/index.html",
-    "main.73361ee2.css.map": "/personal-portfolio/static/css/main.73361ee2.css.map",
-    "main.e2a08683.js.map": "/personal-portfolio/static/js/main.e2a08683.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.73361ee2.css",
-    "static/js/main.e2a08683.js"
-  ]
+  "main.css": "/personal-portfolio/static/css/main.bf30e21f.chunk.css",
+  "main.js": "/personal-portfolio/static/js/main.90ee7d69.chunk.js",
+  "main.js.map": "/personal-portfolio/static/js/main.90ee7d69.chunk.js.map",
+  "static/js/1.ba9fd9f9.chunk.js": "/personal-portfolio/static/js/1.ba9fd9f9.chunk.js",
+  "static/js/1.ba9fd9f9.chunk.js.map": "/personal-portfolio/static/js/1.ba9fd9f9.chunk.js.map",
+  "runtime~main.js": "/personal-portfolio/static/js/runtime~main.fc412624.js",
+  "runtime~main.js.map": "/personal-portfolio/static/js/runtime~main.fc412624.js.map",
+  "static/media/programming.png": "/personal-portfolio/static/media/programming.def9f52e.png",
+  "static/media/Resume.pdf": "/personal-portfolio/static/media/Resume.bf7e1585.pdf",
+  "static/media/Profile.jpg": "/personal-portfolio/static/media/Profile.7bc1ea31.jpg",
+  "static/media/coffee.png": "/personal-portfolio/static/media/coffee.9ee6cf7a.png",
+  "static/media/frontend.png": "/personal-portfolio/static/media/frontend.f6e8ff6f.png",
+  "static/media/website.png": "/personal-portfolio/static/media/website.d76ea297.png",
+  "static/media/styles.css": "/personal-portfolio/static/media/bg.4df14e8e.jpg",
+  "static/css/main.bf30e21f.chunk.css.map": "/personal-portfolio/static/css/main.bf30e21f.chunk.css.map",
+  "index.html": "/personal-portfolio/index.html",
+  "precache-manifest.a47453c6ad6a249de129b7545f67298c.js": "/personal-portfolio/precache-manifest.a47453c6ad6a249de129b7545f67298c.js",
+  "service-worker.js": "/personal-portfolio/service-worker.js"
 }
