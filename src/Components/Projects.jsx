@@ -13,7 +13,11 @@ export default function Projects(props) {
             boxShadow: "0 2px 5px #816797",
           }}
         >
-          <div class="card-body">
+          <div
+            className="card-body"
+            data-mdb-animation="slide-in-down"
+            data-mdb-animation-on-scroll="repeat"
+          >
             <h5 class="card-title">{props.title}</h5>
             <p class="card-text">{props.desc}</p>
           </div>

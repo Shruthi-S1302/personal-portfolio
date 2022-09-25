@@ -13,9 +13,13 @@ function ResumeButton() {
     color: "#FFF",
     fontSize: "1.25rem",
   };
+
+  function download() {
+    window.open({ resume });
+  }
   return (
     <div>
-      <a href={resume} download="Resume" target="_blank" rel="noreferrer">
+      <a href={resume} onClick="download()" target="_blank" rel="noreferrer">
         <button style={buttonStyle}>Get my resume here.</button>
       </a>
     </div>
